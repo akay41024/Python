@@ -18,6 +18,8 @@ for i in range(1,10):
     print(i)
 
 # All single digit number is a armstrong number so we can start from 10
+
+
 for i in range(10,1001):
     if is_armstrong(i):
         print(i)
